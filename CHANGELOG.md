@@ -1,5 +1,20 @@
 # ChangeLog
 
+- 2.1.1 2016/03/30
+  - Fix [#124](https://github.com/hotchemi/PermissionsDispatcher/issues/124).
+- 2.1.0 2016/03/20
+  - Fix [#114](https://github.com/hotchemi/PermissionsDispatcher/issues/114).
+- 2.0.9 2016/03/19
+  - Fix [#112](https://github.com/hotchemi/PermissionsDispatcher/issues/112).
+- 2.0.8 2016/03/09
+  - Fix [#107](https://github.com/hotchemi/PermissionsDispatcher/issues/107).
+  - Fix [#109](https://github.com/hotchemi/PermissionsDispatcher/issues/109).
+- 2.0.7 2016/02/16
+  - Kotlin 1.0 support [#98](https://github.com/hotchemi/PermissionsDispatcher/pull/98).
+- 2.0.6 2016/02/15
+  - Add lint support [#75](https://github.com/hotchemi/PermissionsDispatcher/pull/75).
+  - Update kotlin version [#91](https://github.com/hotchemi/PermissionsDispatcher/pull/91).
+  - Performance improvement [#93](https://github.com/hotchemi/PermissionsDispatcher/pull/93).
 - 2.0.5 2016/01/29
   - Back to support JDK 1.7.
 - 2.0.4 2016/01/22
